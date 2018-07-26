@@ -22,7 +22,7 @@ Front-End-Web-Developer-Nanodegree/
 
 ##### The following is a list of projects required to complete the Front End Nanodegree.
 
-##### 1. [Animal Trading Cards](https://codepen.io/ruthbayasmin/pen/wmXZYz)
+##### 1. [Animal Trading Cards](https://github.com/yasmi22r/Udacity_Nanodegree_Program/tree/master/Project_0_Animal_Trading_Cards)
 ##### 2. [Portfolio Site]()
 ##### 3. [Pixel Art Maker]()
 
