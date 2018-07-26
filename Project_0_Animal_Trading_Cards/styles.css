@@ -1,0 +1,63 @@
+#interesting-fact{
+  font-style: italic;
+}
+
+#facts {
+  text-align: inherit;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+#container {
+    background: rgba(255,192,203, 0.25);
+    border: 1px solid rgba(185,245,10, 0.5);
+  	border-radius: 5px;
+    font-family: "Charcoal", sans-serif;
+   	padding: 10px;
+    width: 320px;
+/*     box-shadow: 5px 5px rgba(230, 230, 230, 0.9); */
+  -moz-box-shadow: 10px 11px 1px -1px rgba(128,128,128,0.19);
+  box-shadow: 10px 11px 1px -1px rgba(128,128,128,0.19);
+  -webkit-box-shadow: 10px 11px 1px -1px rgba(128,128,128,0.19);
+}
+
+#card {
+  background: rgba(255,192,203, 0.25);
+  border: 3px solid rgba(185,245,10, 0.5);
+  width: 290px;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: inherit;
+}
+
+.animal-info {
+  margin-bottom: 20px;
+  font-size: 10px;
+  font-family: inherit;
+}
+
+span{
+  font-weight: bold;
+}
+
+li {
+  text-align: left;
+}
+
+h1 {
+  border: 3px solid rgba(185,245,10, 0.5);
+  width: 290px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 25px;
+  font-weight: 600; 
+  text-align: left;
+}
+
+img {
+  border: 3px solid rgba(185,245,10, 0.5);
+  max-width: 300px;
+  border-radius: 5px;
+  padding: 5px;
+  height: auto;
+}
