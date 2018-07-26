@@ -31,7 +31,7 @@ Front-End-Web-Developer-Nanodegree/
 ## Links to Live Project Demo
 ____________________________________________________________________________________________
 
-#### 1. [Animal Trading Cards]https://codepen.io/ruthbayasmin/pen/wmXZYz)
+#### 1. [Animal Trading Cards](https://codepen.io/ruthbayasmin/pen/wmXZYz)
 #### 2. [Portfolio Site]()
 #### 3. [Pixel Art Maker]()
 
