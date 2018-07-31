@@ -8,8 +8,8 @@ Based on the fundamental knowledge learnt throughout the Nanodegree program we a
 
 ### Technologies Used
 
-* [HTML5 semantic (structural) elements]("https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements") and responsive images
-* CSS with advance features such as flexbox and responsive design
+* [HTML5 semantic (structural) elements]("https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements") 
+* CSS and responsive images
 
 ### Instructions
 
