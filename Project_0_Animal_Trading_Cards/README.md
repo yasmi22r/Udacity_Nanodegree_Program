@@ -40,7 +40,4 @@ The CSS must apply these styles to match the design prototype:
  
 ## For additional instructions 
 
-[Atlassian|http://atlassian.com]
-  
-[Click here!|https://github.com/yasmi22r/Udacity_Nanodegree_Program/blob/master/Project_0_Animal_Trading_Cards/instructions.md]
-
+[Click here!](https://github.com/yasmi22r/Udacity_Nanodegree_Program/blob/master/Project_0_Animal_Trading_Cards/instructions.md)
