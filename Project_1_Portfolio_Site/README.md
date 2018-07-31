@@ -27,13 +27,13 @@ More details about project specifications can be found on the following link [re
 
 Some tools used to check our work:
 
-1. [Udacity HTML/CSS Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/)
+*  [Udacity HTML/CSS Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/)
 
-2. [HTML Validator](https://validator.w3.org/#validate_by_input)
+*  [HTML Validator](https://validator.w3.org/#validate_by_input)
 
-3. [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+*  [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-4. [HTML5 semantic (structural) elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements)
+*  [HTML5 semantic (structural) elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Enter_HTML5_structural_elements)
 
 
 
