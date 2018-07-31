@@ -36,4 +36,9 @@ The CSS must apply these styles to match the design prototype:
   6. add a border around the animal's name, image, and information
   7. add a border around the animal's information
   8. add padding between the animal's name, image, and information
+  
+ 
+## For additional instructions 
+  
+[Click here!|https://github.com/yasmi22r/Udacity_Nanodegree_Program/blob/master/Project_0_Animal_Trading_Cards/instructions.md]
 
